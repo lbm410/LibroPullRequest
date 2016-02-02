@@ -1,0 +1,11 @@
+= Creación de un libro con Pull Request
+
+Se trata de un libro en AsciiDoc que escribiremos de forma conjunta de la forma siguiente:
+
+* Disponemos de una Wiki donde están las (estas) normas de edición.
+* Un conjunto de _issues_ definen las tareas a desarrollar.
+* Cada persona comienza a colaborar en el proyecto involucrándose en una _issue_. Para no complicar demasiado el asunto, sólo cada uno de nosotros hará una _issue_, cualquiera entre las que queden libres.
+* Los escritores harán un _fork_ de este repositorio. Irán haciendo cambios sobre su copia. En el momento de finalizar su tarea crearán una _pull request_ para que el propietario del proyecto del libro decida si se incorporan al libro _global_ o no.
+* Para evitar conflictos con los nombres de imagen, cada autor incluirá como prefijo en el nombre del archivo de la imagen el número del capítulo en el que esté la imagen (p.e. `01-river.png`)
+
+*Y recuerda: Keep Calm and Enjoy Git ;-P*
