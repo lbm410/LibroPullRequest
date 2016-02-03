@@ -1,0 +1,4 @@
+= Que bonito
+
+With an understanding of what AsciiDoc is and why it’s so desperately needed, you’re encouraged to delve into the AsciiDoc syntax covered in the AsciiDoc Writer’s Guide. If you’re just looking for a cheat sheet, check out the AsciiDoc Quick Reference. Hopefully you’ll agree the syntax just makes sense.
+
