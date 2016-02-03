@@ -15,26 +15,26 @@ include::preface.adoc[]
 
 include::dedication.adoc[]
 
-include::01-jbaron.adoc[]
+include::cap-01.adoc[]
 
-include::02-jjcanada.adoc[]
+include::cap-02.adoc[]
 
-include::03-irene.adoc[]
+include::cap-03.adoc[]
 
-include::04-imaguila.adoc[]
+include::cap-04.adoc[]
 
-include::05-mdurban.adoc[]
+include::cap-05.adoc[]
 
-include::06-liribarn.adoc[]
+include::cap-06.adoc[]
 
-include::07-diosdado.adoc[]
+include::cap-07.adoc[]
 
-include::08-jaberme.adoc[]
+include::cap-08.adoc[]
 
-include::09-acorral.adoc[]
+include::cap-09.adoc[]
 
-include::10-rguirado.adoc[]
+include::cap-10.adoc[]
 
-include::11-leo.adoc[]
+include::cap-11.adoc[]
 
-include::12-vruiz.adoc[]
+include::cap-12.adoc[]
