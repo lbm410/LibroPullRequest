@@ -1,0 +1,26 @@
+= The zen of writing AsciiDoc
+
+AsciiDoc is about being able to focus on expressing your ideas, writing with ease and passing on knowledge without the distraction of complex applications or angle brackets. In other words, it’s about discovering writing zen.
+
+AsciiDoc works because:
+
+    It’s readable
+
+    It’s concise
+
+    It’s comprehensive
+
+    It’s extensible
+
+    It produces beautiful output (HTML, DocBook, PDF, ePub and more)
+
+AsciiDoc is easy to write and its easy to read (in raw form). It’s also easy to proof and edit. After all, it’s plain text, just like that familiar e-mail.
+
+The AsciiDoc syntax is intuitive because it recognizes time-tested, plain text conventions for marking up or structuring the text. The punctuation was carefully chosen to look like what it means. A user unfamiliar with AsciiDoc can figure out the structure and semantics (i.e., what you mean) just by looking at it. Best of all, it only requires a text editor to read or write.
+
+AsciiDoc allows you to focus on the actual writing and only worry about tweaking the output when you are ready to render the document. The plain-text of an AsciiDoc document is easily converted into a variety of output formats, beautifully formatted, without having to rewrite the content.
+
+Copy text from an e-mail into a document and see how quickly you can turn it into documentation. Almost immediately, you’ll find your writing zen and enjoy the rewarding experience of sharing knowledge.
+
+Live or die by documentation?
+“Live!”
