@@ -1,0 +1,32 @@
+
+
+AsciiDoc is not as widely adopted as Markdown, but it’s used in some pretty serious places. Here are a few notable examples:
+
+    O’Reilly and MakerPress
+
+        Clojure Cookbook (AsciiDoc source)
+
+    GitHub supports AsciiDoc syntax in repositories, wikis and gists (powered by Asciidoctor)
+
+    NFJS, the Magazine is produced from articles written in AsciiDoc
+
+    Context and Dependency Injection for the Java EE Platform (CDI)
+
+        Specification (AsciiDoc source)
+
+        Website (AsciiDoc source)
+
+    Golo Programming Language Guide (AsciiDoc source)
+
+    Neo4j graph database project (AsciiDoc source)
+
+    Phusion Passenger Users Guides (AsciiDoc source)
+
+    Git user manual (AsciiDoc source)
+
+    Enterprise Web Development: From Desktop to Mobile (AsciiDoc source)
+
+    Bintray REST API and User Guide
+
+These examples are more than just testimonials. They should give you ideas about how to be successful with AsciiDoc for your own project.
+
